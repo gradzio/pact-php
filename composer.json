@@ -1,10 +1,10 @@
 {
-    "name": "pact-foundation/pact-php",
+    "name": "gradzio/pact-php",
     "keywords": [
         "pact",
         "pact-php"
     ],
-    "homepage": "https://github.com/pact-foundation/pact-php",
+    "homepage": "https://github.com/gradzio/pact-php",
     "description": "Enables consumer driven contract testing, following the PACT foundation principles.",
     "license": "MIT",
     "authors": [
